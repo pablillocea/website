@@ -1,0 +1,11 @@
+# Font style metadata
+name = "me"
+
+# Optional Google font URL
+google_fonts = "Space+Grotesk:400,700|JetBrains+Mono"
+
+# Font families
+heading_font = "Space Grotesk"
+body_font = "Space Grotesk"
+nav_font = "Space Grotesk"
+mono_font = "JetBrains Mono"
