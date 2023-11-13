@@ -2,7 +2,7 @@
 name = "me"
 
 # Optional Google font URL
-google_fonts = "JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Space+Grotesk:wght@400;700"
+google_fonts = "family=JetBrains+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Space+Grotesk:wght@400;700"
 
 # Font families
 heading_font = "Space Grotesk"
