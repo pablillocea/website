@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: ""
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Pablo Antonio lillo Cea
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Pablo Antonio
+last_name: Lillo Cea
 
 # Status emoji
 status:
@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Uppsala University
+    url: https://www.uu.se/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
