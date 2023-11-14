@@ -1,6 +1,6 @@
 ---
-title: ''
-type: landing
+title: Contact
+cms_exclude: true
 
 sections:
   - block: contact
