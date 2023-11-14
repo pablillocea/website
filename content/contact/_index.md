@@ -1,7 +1,5 @@
 ---
-title: Contact
-date: 2022-10-24
-
+title: ''
 type: landing
 
 sections:
