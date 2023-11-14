@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Sometimes I blog...
 cms_exclude: true
 
 # View.
