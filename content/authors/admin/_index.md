@@ -3,7 +3,7 @@
 title: ""
 
 # Name pronunciation (optional)
-name_pronunciation: Pablo Antonio lillo Cea
+name_pronunciation: Pablo Antonio Lillo Cea
 
 # Full name (for SEO)
 first_name: Pablo Antonio
