@@ -1,16 +1,15 @@
 ---
-title: 'Contact'
+title: ''
 type: landing
 
 sections:
-    - block: contact
+  - block: contact
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
+      subtitle: ''
+      text: ''
+      # Contact details - edit or remove options as needed
       email: test@example.org
       phone: 888 888 88 88
       appointment_url: 'https://calendly.com'
@@ -25,10 +24,6 @@ sections:
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
@@ -42,16 +37,22 @@ sections:
           icon_pack: fas
           name: Zoom Me
           link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
+      # Automatically link email and phone or display them just as text?
       autolink: true
-      # Email form provider
+      # Choose an email form provider (netlify/formspree)
       form:
         provider: netlify
         formspree:
-          id:
+          # If using Formspree, enter your Formspree form ID
+          id: ''
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
           captcha: false
+      # Coordinates to display a map - set your map provider in `params.yaml`
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'
     design:
-      columns: '2'
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
